@@ -14,5 +14,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robario/semver-resolve.git"
+  },
+  "dependencies": {
+    "cartesian-product": "^2.1.2",
+    "semver": "^5.3.0"
   }
 }
